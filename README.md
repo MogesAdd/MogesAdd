@@ -1,4 +1,4 @@
-<h2 align="left"># Hello, I'm Moges Addis! 👋<br><br>I am a Junior Cloud Practitioner passionate about cloud technologies and software development. I have experience working with Azure, AWS, HTML, JavaScript, CSS, Python, and C#.</h2>
+<h2 align="left">Hello, I'm Moges Addis! 👋<br><br>I am a Junior Cloud Practitioner passionate about cloud technologies and software development. I have experience working with Azure, AWS, HTML, JavaScript, CSS, Python, and C#.</h2>
 
 ###
 
